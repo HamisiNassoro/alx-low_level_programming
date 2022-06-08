@@ -46,5 +46,3 @@ void times_table(void)
 		_putchar ('\n');
 	}
 }
-© 2022 GitHub, Inc.
-
